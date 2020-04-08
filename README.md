@@ -3,10 +3,12 @@ Face Shields For Frontliners
 * 
 Face shield provides protection of the facial area and associated mucous membranes (eyes,
 nose, mouth) from splashes, sprays and spatter of body fluids.
+
 A Face Shield is attached to the head with the help of a headband and an elastic strap. The
 headband is made from MDF sheets. A transparent clear polyester sheet is used as a shield that
 protects the face from any airborne fluid particles. This is secured to the headband as shown in
 the photos. Used shields can be removed and replaced with new shields very easily.
+
 During this pandemic of COVID-19, there is an immense shortage of Face shields in the market
 which is a must have accessory for our frontline warriors including Police & Healthcare
 professionals who are exposed to the COVID positive patients day-in and day-out. Due to their
