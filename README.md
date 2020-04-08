@@ -1,10 +1,19 @@
 # Astra19
 Face Shields For Frontliners
-*    
-Face Shields can protect Front line workers like healthcare professionals and police from potential virus containing droplets released by coughing, sneezing and other close contacts.
+* 
+Face shield provides protection of the facial area and associated mucous membranes (eyes,
+nose, mouth) from splashes, sprays and spatter of body fluids.
+A Face Shield is attached to the head with the help of a headband and an elastic strap. The
+headband is made from MDF sheets. A transparent clear polyester sheet is used as a shield that
+protects the face from any airborne fluid particles. This is secured to the headband as shown in
+the photos. Used shields can be removed and replaced with new shields very easily.
+During this pandemic of COVID-19, there is an immense shortage of Face shields in the market
+which is a must have accessory for our frontline warriors including Police & Healthcare
+professionals who are exposed to the COVID positive patients day-in and day-out. Due to their
+acute shortage, prices have shot up, exposing these frontline warriors at severe risk.
 
-![](14ab2d7f-2b20-46ca-a218-f3f34b57f14a.jpg)
-![](bbddfff8-3619-48ba-a6e6-97d54f7466ee.jpg)
+![](Face%20Shield.jpg)
+![](Face%20Shield%20Profile.jpg)
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
