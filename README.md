@@ -14,6 +14,8 @@ which is a must have accessory for our frontline warriors including Police & Hea
 professionals who are exposed to the COVID positive patients day-in and day-out. Due to their
 acute shortage, prices have shot up, exposing these frontline warriors at severe risk.
 
+The Face Shield Project is a collaborative effort by Venture Center Team and group of startup entrepreneurs to design, fabricate and deliver faceshields to the frontline workers.
+
 ![](Face%20Shield.jpg)
 ![](Face%20Shield%20Profile.jpg)
 
